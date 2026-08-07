@@ -55,7 +55,7 @@ Para utilizar de qualquer lugar mova ou copie arquivo theme_wallpaper.py para um
 
 ## Diretorios
 
-O programa verifica automaticamente os diretorios, caso não estejam criados serão criados:
+O programa verifica automaticamente os diretorios, caso não estejam serão criados:
 
 * `~/Imagens/Wallpapers`
 * `~/Imagens/videos`
