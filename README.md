@@ -49,13 +49,13 @@ Acesse a pasta clonada:
 Conceda permissão de execução para o arquivo theme_wallpaper.py:
 * `chmod +x theme_wallpaper.py`
 
-Para utilizar de qualquer lugar mova ou copie arquivo theme_wallpaper.py para uma pasta com seus scripts no sistema:
+Para utilizar de qualquer lugar mova ou copie arquivo para uma pasta com seus scripts no sistema:
 * Copiar: `cp theme_wallpaper.py ~/.local/bin/theme_wallpaper` 
 * Mover: `mv theme_wallpaper.py ~/.local/bin/theme_wallpaper`
 
 ## Diretorios
 
-O programa verifica automaticamente os diretorios, caso não estejam serão criados:
+O programa verifica automaticamente os diretorios, caso não estejam criados serão criados:
 
 * `~/Imagens/Wallpapers`
 * `~/Imagens/videos`
